@@ -1,0 +1,6 @@
+Hola que tal compañeros 
+Aqui iniciaremos es proyecto de Automatas II 
+estara un poco complicado ya que esta platafora es a base de comandos.
+Necesito oque vayan instalando en su maquina git bash para poder trabajar 
+Esta platafora es como un almacenamiento en la nube y lo que pretende es evitar ue tengamos que estar mandando archivo tras archivo en whats, en face o por correo 
+Aqui todo cambio que se haga al proyecto o avance se subra aqui y toso podremos verlo desde nuestra computadora, este archivo es un ejemplo para que podamos comenzar a trabajar.
